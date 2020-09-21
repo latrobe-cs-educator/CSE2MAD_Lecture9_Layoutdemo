@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutDemo</string>
+    <string name="layout_demo">Layout Demo</string>
+    <string name="skateboarder">Skateboarder</string>
+</resources>
