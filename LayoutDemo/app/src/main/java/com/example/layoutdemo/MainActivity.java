@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     public void SayHi(View view) {
         Log.d("Here", "here");
         Toast.makeText(this,"Hi From Test Lab", Toast.LENGTH_LONG).show();
-        int crashy = 1/0;
+        //Uncomment to test debugging with a code bug
+        //int crashy = 1/0;
     }
 }
